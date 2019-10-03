@@ -1,2 +1,2 @@
-# medemite
-For medemite lectures
+# Data Analysis
+For Data analysis with Excel
